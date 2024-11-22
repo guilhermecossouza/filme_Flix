@@ -38,6 +38,27 @@
         <pre><code>npm start</code></pre>
         <li>Acesse o site em <a href="http://localhost:3000" target="_blank">http://localhost:3000</a>.</li>
     </ol>
+    <h2>🤝 Contribuição</h2>
+    <p>
+        Contribuições são sempre bem-vindas! Siga os passos abaixo:
+    </p>
+    <ol>
+        <li>Faça um fork do projeto.</li>
+        <li>Crie uma nova branch:</li>
+        <pre><code>git checkout -b feature/sua-feature</code></pre>
+        <li>Commit suas alterações:</li>
+        <pre><code>git commit -m 'Adicionei uma nova feature'</code></pre>
+        <li>Faça o push para a branch:</li>
+        <pre><code>git push origin feature/sua-feature</code></pre>
+        <li>Abra um Pull Request.</li>
+    </ol>    
+        <h2>📝 Licença</h2>
+    <p>
+        Este projeto está licenciado sob a <a href="LICENSE" target="_blank">Licença MIT</a>.
+    </p>
+    <p>
+        Este Projeto faz parte do módulo 8 do curso de React Js do zero ao avançado na pratica, realizado pela Ûddemy cursos.
+    </p>
     
 </body>
 </html>
